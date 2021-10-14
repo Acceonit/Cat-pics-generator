@@ -1,5 +1,5 @@
 # Cat-pics-generator
-**a simple cat pictures generator**
+**A Simple Cat Images Generator**
 
 first of all you need to install **aiohttp** library
 open your terminal and use `pip install aiohttp`
